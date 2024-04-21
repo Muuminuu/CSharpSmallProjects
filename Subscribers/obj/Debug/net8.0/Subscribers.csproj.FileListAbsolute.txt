@@ -1,0 +1,14 @@
+C:\Users\Moomin\CsharpProjects\Subscribers\bin\Debug\net8.0\Subscribers.exe
+C:\Users\Moomin\CsharpProjects\Subscribers\bin\Debug\net8.0\Subscribers.deps.json
+C:\Users\Moomin\CsharpProjects\Subscribers\bin\Debug\net8.0\Subscribers.runtimeconfig.json
+C:\Users\Moomin\CsharpProjects\Subscribers\bin\Debug\net8.0\Subscribers.dll
+C:\Users\Moomin\CsharpProjects\Subscribers\bin\Debug\net8.0\Subscribers.pdb
+C:\Users\Moomin\CsharpProjects\Subscribers\obj\Debug\net8.0\Subscribers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moomin\CsharpProjects\Subscribers\obj\Debug\net8.0\Subscribers.AssemblyInfoInputs.cache
+C:\Users\Moomin\CsharpProjects\Subscribers\obj\Debug\net8.0\Subscribers.AssemblyInfo.cs
+C:\Users\Moomin\CsharpProjects\Subscribers\obj\Debug\net8.0\Subscribers.csproj.CoreCompileInputs.cache
+C:\Users\Moomin\CsharpProjects\Subscribers\obj\Debug\net8.0\Subscribers.dll
+C:\Users\Moomin\CsharpProjects\Subscribers\obj\Debug\net8.0\refint\Subscribers.dll
+C:\Users\Moomin\CsharpProjects\Subscribers\obj\Debug\net8.0\Subscribers.pdb
+C:\Users\Moomin\CsharpProjects\Subscribers\obj\Debug\net8.0\Subscribers.genruntimeconfig.cache
+C:\Users\Moomin\CsharpProjects\Subscribers\obj\Debug\net8.0\ref\Subscribers.dll

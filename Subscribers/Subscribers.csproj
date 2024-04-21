@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
+
+
+
+
+<!-- <Project DefaultTargets="Build">
+    <PropertyGroup>
+        <AssembyName>MSBuildSample</AssemblyName>
+        <OutputPath>Bin\</OutputPath>
+    </PropertyGroup>
+    <ItemGroup>
+        <Compile Include="*.cs" />
+    </ItemGroup>
+    <Target Name="Build" Input="@(Compile)" Outputs="$(OutputPath)$(AssemblyName).exe">
+        <MakeDir Directories="$(OutputPath)" Condition="!Exists('($OutputPath)')" />
+        <Csc Sources="@(Compile)" OutputAssembly="$(OutputPath)$(AssemblyName).exe"/>
+    </Target>
+    <Target Name="Clean"/>
+        <Delete Files="$(OutputPath)$(AssemblyName).exe" />
+    </Target>
+    <Target Name="Rebuild" DependsOnTargets="Clean;Build" />
+</Project>
+ -->
+
+
